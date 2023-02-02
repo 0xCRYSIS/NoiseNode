@@ -1,0 +1,5 @@
+<launch>
+    <rosparam file="$(find generate_noise)/config/params.yaml"/>
+
+    <node pkg="generate_noise" type="generate_noise" name="generate_noise" output="screen"/>
+</launch>

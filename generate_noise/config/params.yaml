@@ -1,0 +1,13 @@
+imu_topic_sub : "/imu_topic_sub"
+img_topic_sub_left : "/img_topic_sub_left"
+img_topic_sub_right : "/img_topic_sub_right"
+
+imu_topic_pub : "/imu_topic_pub"
+img_topic_pub_left : "/img_topic_pub_left"
+img_topic_pub_right : "/img_topic_pub-right"
+
+## param to scale in linear acceleration of Imu
+scale_lin_accel : 0.5
+
+## param to scale in angular velocity of Imu
+scale_ang_vel : 0.25

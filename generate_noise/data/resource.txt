@@ -1,0 +1,1 @@
+https://efxa.org/2018/06/25/digital-image-processing-algorithms-implemented-with-c-and-opencv/
